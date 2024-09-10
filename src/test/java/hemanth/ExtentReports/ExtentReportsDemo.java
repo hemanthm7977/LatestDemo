@@ -54,6 +54,7 @@ public class ExtentReportsDemo {
 	public void develop()
 	{
 		System.out.print("Developp");
+		System.out.print(" new Developp");
 	}
 
 }
