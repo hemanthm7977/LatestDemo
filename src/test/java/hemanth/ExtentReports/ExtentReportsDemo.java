@@ -26,6 +26,8 @@ public class ExtentReportsDemo {
 		extent.setSystemInfo("Tester", "hemanth M");
 		
 		System.out.print("This is of Master");
+		
+		System.out.print("Demo updated from original repo");
 
 	}
 
