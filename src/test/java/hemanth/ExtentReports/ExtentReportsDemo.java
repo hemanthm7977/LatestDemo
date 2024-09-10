@@ -28,6 +28,8 @@ public class ExtentReportsDemo {
 		System.out.print("This is of Master");
 		
 		System.out.print("Demo updated from original repo");
+		
+		System.out.print("Demo updated from original repo - NEW ONE");
 
 	}
 
