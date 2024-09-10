@@ -30,6 +30,9 @@ public class ExtentReportsDemo {
 		System.out.print("Demo updated from original repo");
 		
 		System.out.print("Demo updated from original repo - NEW ONE");
+		
+		System.out.print("Developp");
+		
 
 	}
 
@@ -46,6 +49,11 @@ public class ExtentReportsDemo {
 		
 		
 		extent.flush();
+	}
+	
+	public void develop()
+	{
+		System.out.print("Developp");
 	}
 
 }
